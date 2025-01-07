@@ -1,4 +1,4 @@
 # test.demo
 My first git repo
 <br>
-author- the Abhi Roy(the roy)
+Author- the Abhishek Roy(the roy)
